@@ -1,5 +1,5 @@
 # SURVEY- FORM
-# Survey Page
+
 
 ## 📝 Project Overview  
 This is a simple and responsive survey form where users can share their opinions and feedback. The form includes various input types like text fields, radio buttons, checkboxes, and a submit button.
@@ -11,8 +11,8 @@ This is a simple and responsive survey form where users can share their opinions
 ✅ Confirmation message on form submission  
 
 ## 🛠 Technologies Used  
-- HTML5  
-- CSS3  
+- HTML 
+- CSS 
 - JavaScript  
 
 ## 🚀 How to Use  
